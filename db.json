@@ -1,0 +1,64 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "Coffee R Us",
+      "description": "The go-to store for premium coffee lovers everywhere.",
+      "phone_number": "555-5555",
+      "email": "admin@coffeRus.com",
+      "established": 2018
+    }
+  ],
+  "coffee": [
+    {
+      "id": 1,
+      "name": "Vanilla Bean",
+      "description": "Medium roast with a smooth, nutty finish and sweet vanilla notes.",
+      "origin": "Colombia",
+      "roast": "Medium",
+      "price": 10.00,
+      "stock": 42,
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400"
+    },
+    {
+      "id": 2,
+      "name": "House Blend",
+      "description": "Dark roast with a rich, bold flavor and chocolate undertones.",
+      "origin": "Vietnam",
+      "roast": "Dark",
+      "price": 12.00,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1511537190424-bbbab87ac5eb?w=400"
+    },
+    {
+      "id": 3,
+      "name": "Ethiopian Sunrise",
+      "description": "Light roast with bright citrus and floral notes. Perfect for pour-over.",
+      "origin": "Ethiopia",
+      "roast": "Light",
+      "price": 15.00,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400"
+    },
+    {
+      "id": 4,
+      "name": "Sumatran Dark",
+      "description": "Full-bodied dark roast with earthy, herbal, and syrupy flavors.",
+      "origin": "Indonesia",
+      "roast": "Dark",
+      "price": 13.50,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400"
+    },
+    {
+      "id": 5,
+      "name": "Decaf Delight",
+      "description": "Swiss water process decaf. All the flavor, none of the caffeine.",
+      "origin": "Brazil",
+      "roast": "Medium",
+      "price": 11.00,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1610632380989-680fe40816c6?w=400"
+    }
+  ]
+}
